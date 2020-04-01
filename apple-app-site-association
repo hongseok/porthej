@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+    {
+      "appID": "H2ZUJAGDR4.com.porthej.example.universallink",
+      "paths": ["*"]
+    }
+    ]
+  }
+}
